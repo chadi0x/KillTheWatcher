@@ -46,6 +46,12 @@ This technique gives you a defensive edge, especially when:
 
 ---
 
+## 📛 Disclaimer
+- This tool is built for educational and research purposes only.
+- Use responsibly. You are solely responsible for what you run this on.
+
+---
+
 ## ⚙️ Requirements
 - Python 3.x  
 - Internet connection (for module install)
@@ -54,12 +60,10 @@ This technique gives you a defensive edge, especially when:
 
 ---
 
+- Crafted by Chadi — analyzing the dark to build tools that protect.
+
+---
+
 ## 🚀 How to Run
 ```bash
 python KillTheWatcher.py
-
-📛 Disclaimer
-This tool is built for educational and research purposes only.
-Use responsibly. You are solely responsible for what you run this on.
-
-Crafted by Chadi — analyzing the dark to build tools that protect.
