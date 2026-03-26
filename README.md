@@ -9,6 +9,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![UI](https://img.shields.io/badge/UI-CustomTkinter-green)
+<img width="847" height="627" alt="Screenshot 2026-03-26 at 05 29 25" src="https://github.com/user-attachments/assets/6d23b9d8-44c9-4b06-a866-0984b7b1815e" />
 
 </div>
 
